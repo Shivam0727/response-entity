@@ -68,4 +68,9 @@ This code indicates a generic error message, and it tells that an unexpected err
 ## 501 (Not Implemented):
 The server either does not recognize the request method, or it cannot fulfill the request. Usually, this implies future availability (e.g., a new feature of a web-service API).
 
+# Using HTTP Status Codes
+REST API's for User Management Application - Following five REST APIs for User resource and their status codes ( refer to status code column):
+
+
+
 ![api-list](https://github.com/Shivam0727/response-entity/assets/108928939/dfcb1962-a788-4a1e-b73e-116a9c663de0)
